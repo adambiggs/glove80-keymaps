@@ -15,17 +15,17 @@
 <ellipse fill="none" stroke="black" cx="644.35" cy="-18" rx="113.18" ry="18"/>
 <text text-anchor="middle" x="644.35" y="-14.3" font-family="Times,serif" font-size="14.00">OPERATING_SYSTEM</text>
 </g>
-<!-- &#39;L&#39; -->
+<!-- &#39;M&#39; -->
 <g id="node2" class="node">
-<title>&#39;L&#39;</title>
-<polygon fill="cyan" stroke="black" points="186.53,-36 156.37,-18 186.53,0 216.7,-18 186.53,-36"/>
-<text text-anchor="middle" x="186.53" y="-14.3" font-family="Times,serif" font-size="14.00">&#39;L&#39;</text>
+<title>&#39;M&#39;</title>
+<polygon fill="cyan" stroke="black" points="186.53,-36 151.68,-18 186.53,0 221.39,-18 186.53,-36"/>
+<text text-anchor="middle" x="186.53" y="-14.3" font-family="Times,serif" font-size="14.00">&#39;M&#39;</text>
 </g>
-<!-- OPERATING_SYSTEM&#45;&gt;&#39;L&#39; -->
+<!-- OPERATING_SYSTEM&#45;&gt;&#39;M&#39; -->
 <g id="edge1" class="edge">
-<title>OPERATING_SYSTEM&#45;&gt;&#39;L&#39;</title>
-<path fill="none" stroke="black" d="M530.97,-18C432.13,-18 293.87,-18 226.94,-18"/>
-<polygon fill="black" stroke="black" points="226.83,-14.5 216.83,-18 226.83,-21.5 226.83,-14.5"/>
+<title>OPERATING_SYSTEM&#45;&gt;&#39;M&#39;</title>
+<path fill="none" stroke="black" d="M530.97,-18C434.3,-18 299.95,-18 231.47,-18"/>
+<polygon fill="black" stroke="black" points="231.46,-14.5 221.46,-18 231.46,-21.5 231.46,-14.5"/>
 </g>
 <!-- COMBO_FIRING_DECAY -->
 <g id="node3" class="node">

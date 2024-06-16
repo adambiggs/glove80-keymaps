@@ -3,7 +3,7 @@ digraph settings {
 
   subgraph defaults {
 
-    OPERATING_SYSTEM -> "'L'"
+    OPERATING_SYSTEM -> "'M'"
 
     COMBO_FIRING_DECAY -> NUMBER_50
 
@@ -693,7 +693,7 @@ digraph settings {
     graph [rank=same]
 
     
-      "'L'" [label="'L'", style=filled, fillcolor=cyan, shape=diamond]
+      "'M'" [label="'M'", style=filled, fillcolor=cyan, shape=diamond]
     
       "\"tap-preferred\"" [label="\"tap-preferred\"", style=filled, fillcolor=cyan, shape=diamond]
     
