@@ -677,7 +677,7 @@ digraph settings {
 
     MOUSE_MOTION_TIME_TO_MAXIMUM_SPEED -> NUMBER_300
 
-    MOUSE_MOTION_MAXIMUM_SPEED -> NUMBER_600
+    MOUSE_MOTION_MAXIMUM_SPEED -> NUMBER_1800
 
     MOUSE_SCROLL_DELAY -> NUMBER_0
 
@@ -727,7 +727,7 @@ digraph settings {
     
       NUMBER_0 [label="0", style=filled, fillcolor=yellow, shape=diamond]
     
-      NUMBER_600 [label="600", style=filled, fillcolor=yellow, shape=diamond]
+      NUMBER_1800 [label="1800", style=filled, fillcolor=yellow, shape=diamond]
     
   }
 }

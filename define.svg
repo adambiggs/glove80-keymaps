@@ -4131,17 +4131,17 @@
 <ellipse fill="none" stroke="black" cx="644.35" cy="-9765" rx="187.67" ry="18"/>
 <text text-anchor="middle" x="644.35" y="-9761.3" font-family="Times,serif" font-size="14.00">MOUSE_MOTION_MAXIMUM_SPEED</text>
 </g>
-<!-- NUMBER_600 -->
+<!-- NUMBER_1800 -->
 <g id="node351" class="node">
-<title>NUMBER_600</title>
-<polygon fill="yellow" stroke="black" points="186.53,-9783 146.15,-9765 186.53,-9747 226.92,-9765 186.53,-9783"/>
-<text text-anchor="middle" x="186.53" y="-9761.3" font-family="Times,serif" font-size="14.00">600</text>
+<title>NUMBER_1800</title>
+<polygon fill="yellow" stroke="black" points="186.53,-9783 137.6,-9765 186.53,-9747 235.47,-9765 186.53,-9783"/>
+<text text-anchor="middle" x="186.53" y="-9761.3" font-family="Times,serif" font-size="14.00">1800</text>
 </g>
-<!-- MOUSE_MOTION_MAXIMUM_SPEED&#45;&gt;NUMBER_600 -->
+<!-- MOUSE_MOTION_MAXIMUM_SPEED&#45;&gt;NUMBER_1800 -->
 <g id="edge338" class="edge">
-<title>MOUSE_MOTION_MAXIMUM_SPEED&#45;&gt;NUMBER_600</title>
-<path fill="none" stroke="black" d="M456.31,-9765C376.61,-9765 290.01,-9765 237.25,-9765"/>
-<polygon fill="black" stroke="black" points="237.16,-9761.5 227.16,-9765 237.16,-9768.5 237.16,-9761.5"/>
+<title>MOUSE_MOTION_MAXIMUM_SPEED&#45;&gt;NUMBER_1800</title>
+<path fill="none" stroke="black" d="M456.31,-9765C380.75,-9765 299,-9765 245.76,-9765"/>
+<polygon fill="black" stroke="black" points="245.5,-9761.5 235.5,-9765 245.5,-9768.5 245.5,-9761.5"/>
 </g>
 <!-- MOUSE_SCROLL_DELAY -->
 <g id="node352" class="node">
