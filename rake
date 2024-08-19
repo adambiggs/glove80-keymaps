@@ -19,6 +19,6 @@ docker run -v "$PWD:/opt" --rm -it "$IMAGE" \
     sh -uc '
       rake "$@"
       status=$?
-      find . -user root -exec chown $CHOWN {} \;
+      find . ! -path "./.git*" -user root -exec chown $CHOWN {} \;
       exit $status
     ' _ "$@"
